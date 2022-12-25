@@ -1,0 +1,24 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+* {
+    font-family: nunito, sans-serif;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 100px 20px 0;
+    justify-content: flex-start;
+}
+input, button{
+    margin: 10px 0;
+    border: 0;
+    background: 0;
+    padding: 8px;
+    
+}
+input, label, button{
+    font-size: 20px;
+}
+button{
+    background: #808080;
+}
